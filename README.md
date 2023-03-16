@@ -4,4 +4,4 @@
  
 # Installation
 For Windows, download the "ffmpeg-gui.exe" file in releases.
-I am working on a Linux build, I just don't have the time to openSUSE right now.
+I am working on a Linux build, I just don't have the time to switch to openSUSE right now.
