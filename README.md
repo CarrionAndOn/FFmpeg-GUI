@@ -3,5 +3,6 @@
  I wrote this to try and learn python, I know there are plenty of FFmpeg GUIs out there.<br />
  
 # Installation
-For Windows, download the "ffmpeg-gui.exe" file in releases.
+For Windows, download the "ffmpeg-gui.exe" file in releases.<br />
+<b>FFMPEG MUST BE INSTALLED. THIS DOES NOT COME WITH FFMPEG.</b><br />
 I am working on a Linux build, I just don't have the time to switch to openSUSE right now.
