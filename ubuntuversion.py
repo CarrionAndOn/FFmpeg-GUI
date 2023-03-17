@@ -44,7 +44,7 @@ def convert_file():
     if not output_file_path:
         status_label.config(text="Please select output file")
         return
-    command = f"ffmpeg -i {input_file_path} {output_file_path}"
+    command = f'ffmpeg -i "{input_file_path}" "{output_file_path}"'
     subprocess.call(command, shell=True)
     status_label.config(text="Conversion successful!")
 
