@@ -1,7 +1,8 @@
 # FFmpeg-GUI
  A simple GUI for FFmpeg written in Python.<br />
  I wrote this to try and learn python, I know there are plenty of FFmpeg GUIs out there.<br />
- 
+ ![image](https://cdn.carrionandon.me/ss/u2r9o.png)
+
 # Installation
 For Windows, download the "ffmpeg-gui.exe" file in releases.<br />
 <b>FFMPEG MUST BE INSTALLED. THIS DOES NOT COME WITH FFMPEG.</b><br />
